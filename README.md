@@ -1,0 +1,2 @@
+# TrumpTweetsAnalysis
+通过python抓取特朗普的推特进行数据分析
